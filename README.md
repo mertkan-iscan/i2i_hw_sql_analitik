@@ -1,1 +1,1 @@
-# i2i_hw_analitik_fonksiyon
+
